@@ -1,8 +1,8 @@
-import Header from './Header/Header';
-import Hero from './Hero/Hero';
+import Header from './components/Header/Header';
+import Hero from './components/Hero/Hero';
 import styles from './App.module.css';
-import Companies from './Companies/Companies';
-import Residencies from './Residences/Residences';
+import Companies from './components/Companies/Companies';
+import Residencies from './components/Residences/Residences';
 
 function App() {
   return (
